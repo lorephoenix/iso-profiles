@@ -1,0 +1,32 @@
+# Base
+base
+
+# Manjaro
+amd-ucode
+btrfs-progs
+dhcpcd
+dmraid
+dosfstools
+e2fsprogs
+efibootmgr
+exfatprogs
+grub
+intel-ucode
+KERNEL
+lvm2
+mdadm
+memtest86+
+nano
+nano-syntax-highlighting
+python-certifi
+python-colorama
+python-loguru
+python-requests
+python-tenacity 
+python-tqdm
+sudo
+usbutils
+vi
+wget
+which
+xfsprogs
