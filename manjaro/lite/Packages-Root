@@ -19,6 +19,7 @@ mdadm
 memtest86+
 nano
 nano-syntax-highlighting
+parted
 python-certifi
 python-colorama
 python-loguru
