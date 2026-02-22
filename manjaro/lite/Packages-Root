@@ -13,6 +13,7 @@ exfatprogs
 gptfdisk
 grub
 intel-ucode
+jq
 KERNEL
 lvm2
 mdadm
