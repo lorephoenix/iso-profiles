@@ -16,6 +16,7 @@ grub
 intel-ucode
 jq
 KERNEL
+libfido2
 lvm2
 mdadm
 memtest86+
@@ -34,3 +35,5 @@ vi
 wget
 which
 xfsprogs
+yubikey-manager
+yubikey-personalization
