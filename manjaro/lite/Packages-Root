@@ -30,6 +30,8 @@ python-requests
 python-tenacity 
 python-tqdm
 sudo
+tpm2-tools
+tpm2-tss
 usbutils
 vi
 wget
